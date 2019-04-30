@@ -14,7 +14,7 @@ CREATE TABLE PREDIO (
     PRIMARY KEY (id)
 );
 
-drop table PREDIO;
+--drop table PREDIO;
 
 --inserciones--
 insert into PREDIO values('JOSE DANIEL CASTILLO VASQUEZ','ADRIANA VILLALOBOS ALMUNA','15,60','LOTE 2 PARCELA Nº 56 FUNDO LA CUART','LONGAVI','82','');
